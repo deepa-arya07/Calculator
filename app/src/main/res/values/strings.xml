@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calc_text">1234567</string>
+    <string name="divide">/</string>
+    <string name="btnSix">6</string>
+    <string name="btnFive">5</string>
+    <string name="btnFour">9</string>
+    <string name="btnMultiply">*</string>
+    <string name="btnOne">1</string>
+    <string name="btnTwo">2</string>
+    <string name="btnThree">3</string>
+    <string name="minus">-</string>
+    <string name="btnEqual">=</string>
+    <string name="clear">CLR</string>
+    <string name="add">+</string>
+    <string name="zero">0</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+</resources>
